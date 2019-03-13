@@ -1,0 +1,17 @@
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.pdb
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\MySql.Data.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\Oracle.DataAccess.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.pdb
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\obj\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\obj\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.pdb
+C:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\obj\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.pdb
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\MySql.Data.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\Oracle.DataAccess.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.pdb
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\obj\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.DataAccessLayer\obj\Debug\BjDiDaSoft.Core.Application.DataAccessLayer.pdb

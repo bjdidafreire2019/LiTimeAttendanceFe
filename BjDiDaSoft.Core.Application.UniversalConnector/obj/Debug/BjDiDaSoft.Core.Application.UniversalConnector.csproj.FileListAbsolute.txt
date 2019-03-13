@@ -1,0 +1,10 @@
+C:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.pdb
+C:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\obj\Debug\BjDiDaSoft.Core.Application.UniversalConnector.dll
+C:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\obj\Debug\BjDiDaSoft.Core.Application.UniversalConnector.pdb
+C:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\obj\Debug\BjDiDaSoft.Core.Application.UniversalConnector.csprojResolveAssemblyReference.cache
+D:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\bin\Debug\BjDiDaSoft.Core.Application.UniversalConnector.pdb
+D:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\obj\Debug\BjDiDaSoft.Core.Application.UniversalConnector.csprojResolveAssemblyReference.cache
+D:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\obj\Debug\BjDiDaSoft.Core.Application.UniversalConnector.dll
+D:\TimeAttendance\BjDiDaSoft.Core.Application.UniversalConnector\obj\Debug\BjDiDaSoft.Core.Application.UniversalConnector.pdb

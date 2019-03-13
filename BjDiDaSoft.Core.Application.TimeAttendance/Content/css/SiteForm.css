@@ -1,0 +1,36 @@
+﻿body {
+    font: 13px/1.6 Tahoma, sans-serif;
+}
+
+input[type="text"] {
+    background-color: #e3e3e3; 
+    border: 1px solid #666666; 
+    font-size:8pt; 
+    color: #000099;
+}
+
+.dropdown {
+    background-color: #e3e3e3; 
+    border: 1px solid #666666; 
+    /*font-size:8pt;*/ 
+    font-size: 0.875em;
+    color: #000099;
+    /*width:180px;*/
+    height:18px; 
+}
+
+input[type="text2"] {
+    border: 0px solid #eeeeee;
+    background-color: #eeeeee;
+    color: #000000;
+    /*font-color: #000000;*/
+    font-size: 16px;
+    font-family: Arial;
+    overflow: auto;
+    height: 22px;
+}
+
+label {
+    font-size: 8pt;
+    font-family:  "Arial", serif;
+}
